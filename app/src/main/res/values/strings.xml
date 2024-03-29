@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">owasp Email</string>
+    <string name="default_name">Nombre Emisor</string>
+    <string name="default_description">Asunto</string>
+    <string name="default_hour">4:20Pm</string>
+    <string name="default_resent">Default resent</string>
+    <string name="main_title">owasp Email</string>
+</resources>
